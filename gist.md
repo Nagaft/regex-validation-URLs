@@ -52,5 +52,9 @@ Flags are used to control the behavior of the regex. In JavaScript, flags follow
 
 Character escapes are used to allow special characters to be used in a pattern. In our regex, \/ is used to match a forward slash, and \. is used to match a period, as both are special characters in regex syntax.
 
+## Conclusion
+
+This regex is very useful for all the web developers to verify their URLs as a good practice 
+
 ## Author
 https://github.com/Nagaft
